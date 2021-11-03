@@ -1,0 +1,20 @@
+{
+  "name": "linkscrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "html-metadata-parser": "^2.0.2",
+    "json2csv": "^5.0.6",
+    "metadata-scraper": "^0.2.44",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "web-icon-scraper": "^0.1.7"
+  }
+}
